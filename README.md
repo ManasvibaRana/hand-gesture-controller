@@ -1,17 +1,8 @@
-Hand Gesture Controller using MediaPipe
-Control your system using just your hands! This project uses MediaPipe and OpenCV to recognize hand gestures and map them to actions like mouse control.
+Hand Gesture Controller
+
+A Python-based hand gesture controller using MediaPipe and OpenCV. It allows you to control basic actions on your computer using only your hand movements no keyboard or mouse required.
 
 Features
-
 - Real-time hand tracking
-- Control mouse cursor with your index finger
-- Perform left-click using gestures
-- Easily extendable for more gestures (volume, scrolling, etc.)-
-
-Tech Stack
-
-- Python 
-- MediaPipe
-- OpenCV
-- PyAutoGUI
-
+- Gesture-based control (like volume, cursor, clicks)
+- Built with `cvzone`, `mediapipe`, and `pyautogui`
