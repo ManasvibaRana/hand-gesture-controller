@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+env/
+venv/
+.venv/
+mediapipe-env/
+# VS Code settings
+.vscode/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Log files
+*.log
+
+# MacOS and system files
+.DS_Store
+Thumbs.db
+
+# PyAutoGUI fail-safes/screenshots
+screenshot*.png
+
+# Jupyter Notebook
+.ipynb_checkpoints
