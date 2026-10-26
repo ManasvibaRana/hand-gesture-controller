@@ -11,3 +11,7 @@ ENV/
 *.sqlite3
 pyvenv.cfg
 share/
+
+Scripts/
+Lib/
+Include/
