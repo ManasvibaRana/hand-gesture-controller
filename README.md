@@ -31,7 +31,7 @@ Great for endless-runner browser games (lane switching, jumping, sliding), prese
 
 ### Prerequisites
 
-- Python 3.8–3.11 (MediaPipe doesn't support every newer version yet)
+- Python 3.8-3.11 (MediaPipe doesn't support every newer version yet)
 - A webcam
 
 ### Install and run
